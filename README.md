@@ -73,11 +73,11 @@ El programa cuenta con un menú interactivo en consola que incluye:
 ### Ejecución
 1. Clona o descarga este repositorio en tu equipo:
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   git clone https://github.com/mrrobot-2006/Simulador-Algoritmo-Banquero
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd TU_REPOSITORIO
+   cd Simulador-Algoritmo-Banquero
    ```
 3. Ejecuta el script principal:
    ```bash
