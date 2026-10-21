@@ -79,11 +79,14 @@ El programa cuenta con un menú interactivo en consola que incluye:
    ```bash
    cd Simulador-Algoritmo-Banquero
    ```
-3. Ejecuta el script principal:
+3. Ejecuta el script principal en linux:
    ```bash
-   python algoritmo_banquero_simulado.py
+   python3 algoritmo_banquero_simulado.py
    ```
-
+   Ejecuta el script principal en windows:
+   ```bash
+   py algoritmo_banquero_simulado.py
+   ```
 ---
 
 ## 💻 Estructura del Código Fuente
